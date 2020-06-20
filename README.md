@@ -1,4 +1,4 @@
-# Kaggle Competition|Titanic Machine Learning from Disaster
+# Kaggle Competition | Titanic Machine Learning from Disaster
 
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
@@ -10,11 +10,11 @@ Source: Kaggle Homepage
 Predict  if a passenger survived the sinking of the Titanic or not.
 
 ### Dependencies
-##.Numpy
-##.Pandas
-##.Matplotlib
-##.Seaborn
-##.Sklearn
+.Numpy
+.Pandas
+.Matplotlib
+.Seaborn
+.Sklearn
 
 #### Purpose of this Notebook
 The purpose of this notebook is to provide an insight and a quick solution to the Titanic Machine Larning from Disaster.The analysis and modelling was done with python. The notebook is to help anyone get started with the competition and get familiar with python and machine learning modules.
