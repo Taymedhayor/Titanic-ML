@@ -10,13 +10,17 @@ Source: Kaggle Homepage
 Predict  if a passenger survived the sinking of the Titanic or not.
 
 ### Dependencies
-.Numpy
-.Pandas
-.Matplotlib
-.Seaborn
-.Sklearn
+### Numpy
 
-#### Purpose of this Notebook
+### Pandas
+
+### mattplotlib
+
+### Seaborn
+
+### Sklearn
+
+### Purpose of this Notebook
 The purpose of this notebook is to provide an insight and a quick solution to the Titanic Machine Larning from Disaster.The analysis and modelling was done with python. The notebook is to help anyone get started with the competition and get familiar with python and machine learning modules.
 
 ## Modelling and Predicting 
